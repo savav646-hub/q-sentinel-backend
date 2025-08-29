@@ -1,0 +1,10 @@
+﻿fastapi>=0.111
+uvicorn[standard]>=0.30
+numpy>=1.24
+pydantic>=2.5
+cryptography>=42.0
+qiskit>=1.0,<2.0
+qiskit-machine-learning>=0.7
+qiskit-algorithms>=0.3
+scikit-learn>=1.3
+
